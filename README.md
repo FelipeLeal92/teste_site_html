@@ -20,10 +20,10 @@ O objetivo deste projeto foi **colocar em prática os conceitos básicos aprendi
 
 ## 📂 Estrutura do projeto
 
-teste_site_html/
-├── index.html
-├── contato.html
-└── sobre.html
+teste_site_html/ <br>
+├── index.html <br>
+├── contato.html <br>
+└── sobre.html <br>
 
 
 - `index.html`: Página inicial com informações básicas
